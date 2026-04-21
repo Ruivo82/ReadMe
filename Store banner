@@ -1,0 +1,25 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .store-text {
+        font-family: 'Segoe UI', sans-serif;
+        font-size: 22px;
+        font-weight: 700;
+        fill: #ffffff;
+        animation: glow 2s ease-in-out infinite alternate;
+      }
+      .sub-text {
+        font-family: 'Segoe UI', sans-serif;
+        font-size: 13px;
+        fill: #8b949e;
+      }
+      @keyframes glow {
+        from { filter: drop-shadow(0 0 4px #ff3333) drop-shadow(0 0 8px #ff0000); }
+        to   { filter: drop-shadow(0 0 10px #ff6666) drop-shadow(0 0 20px #ff0000) drop-shadow(0 0 30px #cc0000); }
+      }
+    </style>
+  </defs>
+  <rect width="800" height="60" fill="#0d1117" rx="8"/>
+  <text x="400" y="28" text-anchor="middle" class="store-text">🛒 RV Studios Store</text>
+  <text x="400" y="48" text-anchor="middle" class="sub-text">FiveM scripts, resources &amp; more → rv-studios.tebex.io</text>
+</svg>
