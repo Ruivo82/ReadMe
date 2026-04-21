@@ -72,18 +72,13 @@ class Ruivo82:
 
 ## 🔒 Current Project
 
-<details>
-<summary><b>🔒 "Something is coming..."</b></summary>
-
-<br/>
-
 <div align="center">
+
+> 🔒 **Something is on the way...**
 
 <img src="foto3.png" width="75%" />
 
 </div>
-
-</details>
 
 ---
 
