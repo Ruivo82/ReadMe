@@ -73,17 +73,13 @@ class Ruivo82:
 ## 🔒 Current Project
 
 <details>
-<summary><b><img src="secret_banner.svg" width="600" /></b></summary>
+<summary><b>🔒 "Something is coming..."</b></summary>
 
 <br/>
 
 <div align="center">
 
 <img src="foto3.png" width="75%" />
-
-<br/>
-
-> **Nova Esperança** — Um novo servidor FiveM. Construído de raiz. Detalhes em breve.
 
 </div>
 
