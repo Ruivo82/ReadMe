@@ -1,0 +1,32 @@
+<svg width="800" height="80" viewBox="0 0 800 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .motto {
+        font-family: 'Georgia', serif;
+        font-size: 18px;
+        font-style: italic;
+        fill: #cccccc;
+        animation: pulse 3s ease-in-out infinite alternate;
+      }
+      .name {
+        font-family: 'Segoe UI', sans-serif;
+        font-size: 28px;
+        font-weight: 900;
+        fill: #ffffff;
+        animation: glow 2.5s ease-in-out infinite alternate;
+        letter-spacing: 2px;
+      }
+      @keyframes glow {
+        from { filter: drop-shadow(0 0 3px #ff2222) drop-shadow(0 0 6px #ff0000); }
+        to   { filter: drop-shadow(0 0 12px #ff4444) drop-shadow(0 0 24px #ff1111) drop-shadow(0 0 40px #990000); }
+      }
+      @keyframes pulse {
+        from { opacity: 0.6; }
+        to   { opacity: 1; }
+      }
+    </style>
+  </defs>
+  <rect width="800" height="80" fill="#0d1117"/>
+  <text x="400" y="38" text-anchor="middle" class="name">RUIVO82</text>
+  <text x="400" y="65" text-anchor="middle" class="motto">"Craft over noise. Ship things that last."</text>
+</svg>
