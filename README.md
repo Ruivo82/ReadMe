@@ -7,33 +7,11 @@ class Ruivo82:
     dev   = "Diogo Lopes"
     based = "Portugal 🇵🇹"
 
-    focus = ["FiveM", "Web", "Backend", <div align="center">
-
-# Ruivo82
-
-```py
-class Ruivo82:
-    dev   = "Diogo Lopes"
-    based = "Portugal 🇵🇹"
-
-    focus = ["FiveM", "Web", "Backend", <div align="center">
-
-# Ruivo82
-
-```py
-class Ruivo82:
-    dev   = "Diogo Lopes"
-    based = "Portugal 🇵🇹"
-
     focus = ["FiveM", "Web", "Backend", "Frontend", Database]
     stack = ["TS", "React", "Lua", "C#", "Python", "JS"]
 
     building = "FiveM experiences"
 ```
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ruivo82&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruivo82&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
 ```txt
 ▸ Building → WebGL systems
