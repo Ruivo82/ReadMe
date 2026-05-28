@@ -4,7 +4,7 @@
 
 ```py
 class Ruivo82:
-    dev   = "Diogo Lopes"
+    dev = "Diogo Lopes"
     based = "Portugal"
 
     focus = ["FiveM", "Web", "Backend", "Frontend", "Database"]
