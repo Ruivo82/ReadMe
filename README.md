@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ruivo82
+# Ruivo
 
 ```py
 class Ruivo82:
