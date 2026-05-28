@@ -4,48 +4,19 @@
 
 ```py
 class Ruivo82:
-    name  = "Diogo Lopes"
-    from_ = "Portugal 🇵🇹"
+    dev   = "Diogo Lopes"
+    based = "Portugal 🇵🇹"
 
-    focus = [
-        "FiveM Development",
-        "Full-Stack Web",
-        "Backend Systems"
-    ]
+    focus = ["FiveM", "Web", "Backend"]
+    stack = ["TS", "React", "Lua", "C#", "Python"]
 
-    stack = [
-        "TypeScript", "React", "Lua",
-        "C#", "Python", "MySQL"
-    ]
-
-    building = "Immersive FiveM & WebGL experiences"
+    building = "WebGL & FiveM experiences"
 ```
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Tech Stack
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ruivo82&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&count_private=true" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruivo82&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=6" />
-
-</div>
-
----
-
 ```txt
-▸ Building → WebGL camera systems for FiveM
-▸ Working  → Scripts, UI & server experiences
-▸ Learning → Advanced Python & C# architecture
+▸ Building → WebGL systems
+▸ Working  → FiveM experiences
+▸ Learning → Python & C#
 ```
-
----
-
-<div align="center">
 
 ## 🛒 Store
 
@@ -53,17 +24,11 @@ class Ruivo82:
   <img src="foto2.png" width="75%" />
 </a>
 
-### → rv-studios.tebex.io
-
-</div>
-
----
-
-<div align="center">
+### rv-studios.tebex.io
 
 ## 🔒 Current Project
 
-> Something big is loading...
+> Something is coming...
 
 <img src="foto3.png" width="75%" />
 
