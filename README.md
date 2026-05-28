@@ -5,9 +5,9 @@
 ```py
 class Ruivo82:
     dev   = "Diogo Lopes"
-    based = "Portugal 🇵🇹"
+    based = "Portugal"
 
-    focus = ["FiveM", "Web", "Backend", "Frontend", Database]
+    focus = ["FiveM", "Web", "Backend", "Frontend", "Database"]
     stack = ["TS", "React", "Lua", "C#", "Python", "JS"]
 
     building = "FiveM experiences"
