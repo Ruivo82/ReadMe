@@ -22,7 +22,7 @@ class Ruivo82:
 ## 🛒 Store
 
 <a href="https://rv-studios.tebex.io/" target="_blank">
-  <img src="foto2.png" width="75%" />
+  <img src="foto4.png" width="75%" />
 </a>
 
 ### rv-studios.tebex.io
